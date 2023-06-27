@@ -1,2 +1,2 @@
 # Delenoise
-The delenoise repository is an innovative project aimed at improving the quality of microscopic images using a diffusion model while preserving their biological plausibility. The project focuses on enhancing essential characteristics of the images without introducing artificial or non-existing features.
+When using a microscope, we may face challenges in obtaining clear images due to hardware limitations, resulting in poor-quality output. To tackle this issue, we plan to employ the diffusion model in our project. Our aim is to enhance the quality of the image while maintaining its biological plausibility. With this approach, we hope to improve the visibility of crucial biological features without inventing non-existent features.
